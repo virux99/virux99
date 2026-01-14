@@ -1,91 +1,100 @@
 # Hi, I’m Malik 👋  
 **Full-Stack Developer**
 
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-Stack+Developer;Building+Production+Systems;Scaling+Data+and+Automation;Solving+Real+Business+Problems)
+
 I build and maintain production systems that handle real traffic, real data, and real business constraints — from high-volume lead funnels to data-heavy platforms in healthcare, retail, and e-commerce.
 
 ---
 
-## 🔧 Tech Stack
+## 🧰 Tech I Work With
 
-I’ve worked across multiple stacks depending on the problem, team, and scale:
+![React](https://img.shields.io/badge/React-black?logo=react)
+![Angular](https://img.shields.io/badge/Angular-black?logo=angular)
+![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
+![.NET](https://img.shields.io/badge/.NET-black?logo=dotnet)
+![SQL](https://img.shields.io/badge/SQL-black?logo=database)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![Docker](https://img.shields.io/badge/Docker-black?logo=docker)
 
-- **Frontend:** React, Angular  
-- **Backend:** .NET, Node.js  
-- **Databases:** SQL-based systems  
-- **Architecture & Tools:** REST APIs, system integrations, automation pipelines, Git-based workflows  
-
-I’m comfortable moving across the stack — from UI and dashboards to backend logic, data flows, and performance-sensitive systems.
+I’m comfortable moving across the stack — from frontend dashboards to backend systems, data flows, integrations, and automation pipelines.
 
 ---
 
 ## 🚀 Selected Projects
 
-### **mj-american-funnel**
+### 🟢 **mj-american-funnel** — Production  
 🔗 https://github.com/virux99/mj-american-funnel  
 
-A high-traffic funnel system designed to help companies manage and convert large volumes of inbound leads.
+A high-traffic funnel system built to help companies manage and convert massive volumes of inbound leads.
 
-- Handles **millions of requests** under real-world traffic conditions  
-- Provides a **detailed analytics dashboard** for monitoring lead flow, performance, and conversion metrics  
-- Built with scalability and reliability in mind, focusing on data accuracy and operational visibility  
+- Handles **millions of requests** under real production load  
+- Real-time dashboards for **lead flow, conversion metrics, and performance analytics**  
+- Designed for scalability, reliability, and data accuracy  
 
-This system is actively used in production and optimized for sustained load.
+Actively used in production environments.
 
 ---
 
-### **proms-path**
+### 🟡 **proms-path** — Active Development  
 🔗 https://github.com/virux99/proms-path  
 
-An ongoing platform for doctors and patients to collect, fetch, and analyze medical and study-related data.
+A medical data platform for doctors and patients to collect, fetch, and analyze study-related information.
 
-- Enables structured data collection for **medical studies and research**
-- Supports analysis workflows that help doctors derive insights from patient-reported outcomes
-- Designed with extensibility in mind as requirements evolve  
+- Supports **patient-reported outcomes** and structured medical data  
+- Enables doctors to **analyze datasets for research and studies**  
+- Designed to evolve alongside real clinical and research needs  
 
-This project is actively evolving as new research and data needs emerge.
+Ongoing and actively evolving.
 
 ---
 
-### **datepins**
+### 🔵 **datepins** — Exploration  
 🔗 https://github.com/virux99/datepins  
 
-A utility-focused project exploring structured data handling and user-centric workflows.  
-Built as part of experimenting with product ideas and system design patterns.
+A utility-focused project exploring structured data workflows and product design ideas.
 
 ---
 
 ## 🏗️ Professional Work (Confidential)
 
-I’m currently working on **large-scale, complex systems in Sweden** that solve critical data problems for businesses.
+I currently work on **large-scale systems in Sweden** solving complex data and business problems.
 
 - Clients include **large retailers and medical companies**  
-- Focus areas include data processing, system reliability, and business growth enablement  
-- Due to confidentiality, specific company names and implementations can’t be shared publicly  
+- Focus areas: data processing, system reliability, and growth-driven architecture  
+- Due to confidentiality, specific company names and implementations can’t be shared  
 
-The work involves real production constraints, non-trivial data flows, and long-term system maintenance.
+This work operates under real production constraints and long-term maintenance requirements.
 
 ---
 
-## 🛒 Current Build: Shopify Automation Platform
+## 🛒 Building: Shopify Automation Platform
 
-I’m developing a tool for **Shopify store owners** that automates and accelerates product management:
+I’m developing a tool for **Shopify store owners** to automate and optimize product management:
 
-- Automatically add products using:
+- Add products automatically using:
   - A single product link
   - AI-assisted extraction
-  - Structured JSON input
-- Auto price updates based on competitor websites
-- Detailed previews and controls to help store owners make informed decisions  
+  - Structured JSON input  
+- Automatic price updates based on competitor websites  
+- Detailed previews and controls to help merchants make informed decisions  
 
-The goal is to remove repetitive manual work and give store owners better visibility and control over their catalog and pricing strategy.
+The goal is to reduce manual work and give store owners better visibility and control over their business.
 
 ---
 
 ## 🌱 Currently Focused On
 
-- Building scalable systems that survive growth
-- Automation and data-driven workflows
-- Designing tools that reduce operational friction for businesses
+- Scalable system design  
+- Automation and data-driven workflows  
+- Reducing operational friction for businesses  
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=virux99&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virux99&layout=compact)
 
 ---
 
