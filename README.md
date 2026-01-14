@@ -93,8 +93,11 @@ The goal is to reduce manual work and give store owners better visibility and co
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=virux99&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virux99&layout=compact)
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=virux99&show_icons=true&count_private=true&hide_title=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virux99&layout=compact&cache_seconds=1800)
 
 ---
 
